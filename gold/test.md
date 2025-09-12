@@ -1,0 +1,2 @@
+Dados agregados e otimizados para consumo específico de negócio (relatórios, BI...), baseados na camada silver.
+vai ser desenvolvido o Data warehouse, e nesta pasta ficará os documentos e csvs gerados apartir do Data warehouse!
