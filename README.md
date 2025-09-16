@@ -23,7 +23,7 @@ A solução envolve a ingestão, armazenamento, processamento e análise de dado
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-            <a href="https://github.com/brenoalexandre0">
+            <a href="https://github.com/F1reFinger">
                 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78388335?v=4" width="150px;"/>
                 <h5 class="text-center"> Helder Lourenço de Abreu Marques  </h5>
             </a>
