@@ -1,1 +1,0 @@
-Dados em seu estado original, sem processamento. Além dos metadados da base de dados bruta.
