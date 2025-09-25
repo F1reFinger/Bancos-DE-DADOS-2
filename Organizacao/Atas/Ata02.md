@@ -35,7 +35,7 @@
 | D1 | Apresentação das propostas de tema e datasets. | Foi decidido que o tema do trabalho será **Pokémon** com base na Pokédex. Será utilizado o dataset do Kaggle: [Complete Pokedex v1.0.0](https://www.kaggle.com/datasets/joshuabetetta/complete-pokedex-v100). |
 | D2 | Definição da estrutura inicial do repositório. | A estrutura será organizada no GitHub, mas os detalhes serão definidos nas próximas reuniões. |
 | D3 | Organização inicial das tarefas. | Todos devem instalar e configurar o Jupyter Notebook em seus dispositivos. Maria Eduarda será responsável por apoiar o grupo nesse processo. Além disso, todos devem analisar os dados e iniciar o preenchimento do dicionário de dados. |
-| D4 | Definição da próxima reunião. | Será definida posteriormente no grupo do projeto. |
+
 
 ### Tarefas Definidas  
 
