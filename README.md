@@ -4,9 +4,9 @@
 
 ### Descrição
 
-Este projeto está sendo desenvolvido para a disciplina de Sistemas de Bancos de Dados 2. O objetivo é estuturar e refatorar dados em um banco de dados.
+Este projeto tem como objetivo aplicar os conceitos de engenharia de dados para extrair, tratar e visualizar informações do dataset Pokédex. A metodologia utilizada é a **Arquitetura Medalhão**, organizando o fluxo em três camadas: Bronze, Silver e Gold.
 
-A solução envolve a ingestão, armazenamento, processamento e análise de dados ao seguir uma arquitetura de camadas (Bronze, Silver, Gold) para garantir a qualidade e a rastreabilidade dos dados.
+A ferramenta principal para a transformação dos dados será o **PySpark**, para simular um ambiente de Big Data e praticar as operações distribuídas.
 
 ### 🛠️ Tecnologias Utilizadas
 
